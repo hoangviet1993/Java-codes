@@ -6,3 +6,5 @@ The RPS AI is a rudimentary randomized algorithm.
 The source code can be viewed inside the src folder-->rps.java
 
 This project was last compiled on Netbeans IDE 8.0.2
+
+[Screenshot of compiled codes of RPS game](Java-codes/RPS/RPS-Screenshot1.png)
