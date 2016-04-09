@@ -1,2 +1,0 @@
-vta3.OutofRangeException
-vta3.MyFrameCurrencyConverter
